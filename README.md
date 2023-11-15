@@ -1,2 +1,9 @@
 # CSS-Mini-project
-Html &amp; CSS clone
+This CSS mini-project showcases a website I created using HTML and CSS. The project aims to demonstrate my understanding of CSS concepts and techniques to create a visually appealing website.
+# Technologies:
+*HTML<br>
+*CSS
+# Author:
+Hemal Joshi: joshi.hemal5555@gmail.com
+# Link:
+https://github.com/Hemal2707/CSS-Mini-project/
