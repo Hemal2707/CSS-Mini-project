@@ -6,4 +6,4 @@ This CSS mini-project showcases a website I created using HTML and CSS. The proj
 # Author:
 Hemal Joshi: joshi.hemal5555@gmail.com
 # Link:
-https://github.com/Hemal2707/CSS-Mini-project/
+https://hemal2707.github.io/CSS-Mini-project/
